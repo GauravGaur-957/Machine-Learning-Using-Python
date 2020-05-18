@@ -1,1 +1,1 @@
-# just getting started with Machine Learning.
+Getting started with Machine Learning.
