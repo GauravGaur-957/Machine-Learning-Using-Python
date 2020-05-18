@@ -1,1 +1,1 @@
-# just getting started with Github.
+# just getting started with Machine Learning.
